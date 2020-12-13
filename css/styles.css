@@ -1,0 +1,167 @@
+body{
+  margin:0;
+
+    text-align:center;
+background-color:#fcf8ec;
+}
+.topcontainer{
+  text-align:center;
+  position:relative;
+  padding-top:150px;
+
+}
+h1{margin:0;
+  position:relative;
+  margin:50px auto 0 auto;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color:#222831;
+
+
+}
+h2{
+  color:#222831;
+
+}
+div{
+  background-color:#d0e8f2;
+}
+.toptitle{
+  position:relative;
+  top:20px;
+  margin:10px auto 0 auto;
+  font-size: 40px;
+  font-family: 'Sacramento', cursive;
+  color:#222831;
+  font-weight: normal;
+
+
+}
+.bottomcloud{
+  position: absolute;
+  top:150px;
+  right:350px;
+}
+.toplogo{
+  position:absolute;
+  bottom:250px;
+  left:420px;
+}
+h3{
+  color:#222831;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+
+  background-color:#fcf8ec;
+}
+.middle-container{
+  background-color:#fcf8ec;
+}
+.skills{
+    background-color:#fcf8ec;
+    margin-bottom:100px;
+    margin-top:100px;
+}
+.profile{
+    background-color:#fcf8ec;
+    margin-bottom:100px;
+
+
+}
+.h3bhf{
+margin-top:0px;
+}
+.h2prof{
+  margin-bottom:100px;
+
+}
+.para{
+  width: 50%;
+  margin: 50px auto auto  auto;
+  text-align:left;
+
+}
+.mansion{
+float: left;
+margin-right: 30px;
+width: 25%;
+height: 25%;
+border-radius: 50%;
+}
+.mansion1{
+float: left;
+margin-right: 30px;
+width: 25%;
+height: 25%;
+}
+.hi{
+float: right;
+margin-left: 30px;
+width: 25%;
+height: 25%;
+border-radius: 50%;
+}
+.footer{
+  height: 100px;
+  width: 100%;
+  margin:0;
+  background-color:#79a3b1;
+  padding-top: 50px;
+}
+.copyright{
+  color:#fcf8ec
+}
+.contact-me{
+    background-color:#fcf8ec;
+    margin-bottom:100px;
+    margin-top:100px;
+
+}
+hr{border-top: dotted 5px;
+  width: 8%;
+
+}
+.social{
+color:#456268;
+margin-right: 50px;
+margin-top:30px;
+}
+.BUTTON_HXO {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: #000000;
+   font-family: Open Sans;
+   width: 201px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 23px;
+   background-color: #D0E8F2;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   box-shadow: 1px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #FFFFFF;
+   border: solid #D0E8F2 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 30px;
+}
+
+.BUTTON_HXO:hover {
+   background: #FCF8EC;
+   border: solid #FCF8EC 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.blah{
+  margin-left:28%;
+}
